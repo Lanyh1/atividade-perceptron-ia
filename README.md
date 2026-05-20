@@ -1,6 +1,6 @@
 # Perceptron 
 
-Esse repositório aplica um algoritmo que realiza a implementação de um perceptron em python, onde aplica os dados da tabela abaixo:
+Esse repositório aplica  um algoritmo que realiza a implementação de um perceptron em python, onde utiliza os dados da tabela abaixo:
 
 ![Tabela dos dados](image.png)
 
